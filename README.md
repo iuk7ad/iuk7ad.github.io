@@ -125,12 +125,12 @@ citizens police academy
 
 new york state governor's office, department of agriculture and markets, division of agricultural development | 2013-2015<br>
 empire state fellow<br>
-assignments: anti-hunger task force, community, opportunity, reinvestment neighborhoods initiative, lean spending and government efficiency commission, long island, mid-hudson, and new york city regional economic development councils, office of general services, and rochester anti-poverty task force
+assignments: anti-hunger task force, community, opportunity, reinvestment neighborhoods initiative, lean spending and government efficiency commission, long island, mid-hudson, and new york city regional economic development councils, office of general services, rochester anti-poverty task force
 
 <br>fellowships
 
 united state army, devcom army research laboratory | 2022<br>
-foundry program via fedtech and national security innovation network
+foundry program via fedtech, national security innovation network
 
 rice university, fondren library | 2021-2022<br>
 fondren fellowship (certification: software carpentry instructor)
