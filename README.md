@@ -2,17 +2,17 @@ curriculum vitae
 
 email: iuk7ad at pm.me | bluesky: @iuk7ad.bsky.social | github: iuk7ad | linkedin: in/iuk7ad | orcid: 0000-0002-1201-8107
 
-hometown: houston, texas, united states
-current location: philadelphia, pennsylvania, united states
+hometown: houston, texas, united states<br>
+current location: philadelphia, pennsylvania, united states<br>
 fluency: arabic, english, french, urdu
 
 teaching appointments
 
-community college of philadelphia | 2024-present
-introduction to information technology (cis 103)
-database management systems (cis 205)
-foundations of data science (csci 118)
-statistics for computing and data science (csci 218)
+community college of philadelphia | 2024-present<br>
+introduction to information technology (cis 103)<br>
+database management systems (cis 205)<br>
+foundations of data science (csci 118)<br>
+statistics for computing and data science (csci 218)<br>
 machine learning (csci 221)
 
 hunter college | 2022-present
