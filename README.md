@@ -233,88 +233,88 @@ mathias, e.v., liu, x., franco, o., khan, i., ba, y., and kornfield, j.a. “a m
 
 <br>conference invitations and talks
 
-University of Massachusetts Dartmouth School for Marine Science and Technology, Data Carpentry, November 2024, Dartmouth, MA
+university of massachusetts dartmouth school for marine science and technology, data carpentry, november 2024, dartmouth, ma
 <br>
-University of Hawaii, Data Carpentry, October 2024, Honolulu, HI
+university of hawaii, data carpentry, october 2024, honolulu, hi
 <br>
-University of Pennsylvania, Data Carpentry, June 2024, Philadelphia, PA
+university of pennsylvania, data carpentry, june 2024, philadelphia, pa
 <br>
-Pennsylvania State University, Software Carpentry, April 2024, State College, PA
+pennsylvania state university, software carpentry, april 2024, state college, pa
 <br>
-Michigan Technological University, Data Carpentry, February 2024, Houghton, MI
+michigan technological university, data carpentry, february 2024, houghton, mi
 <br>
-University of Sussex, Data Carpentry, July 2023, Brighton, England
+university of sussex, data carpentry, july 2023, brighton, england
 <br>
-University of Pennsylvania, Penn Graduate Consulting Club, November 2022, Online
+university of pennsylvania, penn graduate consulting club, november 2022, online
 <br>
-University of Pennsylvania - Van Pelt Library, Data Carpentry, October 2022, Philadelphia, PA
+university of pennsylvania - van pelt library, data carpentry, october 2022, philadelphia, pa
 <br>
-The i4 Group, Data-Driven Service Development, June 2022, Online
+the i4 group, data-driven service development, june 2022, online
 <br>
-The i4 Group, Using Open Data for Public Benefit, March 2022, Online
+the i4 group, using open data for public benefit, march 2022, online
 <br>
-The i4 Group, Data Driven Product Development, August 2021, Online
+the i4 group, data driven product development, august 2021, online
 <br>
-General Assembly, Data Week | Let’s Break it Down: Data Science vs. Data Analytics, May 2021, Online
+general assembly, data week | let’s break it down: data science vs. data analytics, may 2021, online
 <br>
-Long Island Food Conference, April 2015, Hempstead, NY
+long island food conference, april 2015, hempstead, ny
 <br>
-Farm to Institution Summit, April 2015, Amherst, MA
+farm to institution summit, april 2015, amherst, ma
 <br>
-AcademyHealth, National Health Policy Conference, February 2015, Washington, DC
+academyhealth, national health policy conference, february 2015, washington, dc
 <br>
-Cornell University, Cornell Cooperative Extension, New York Farms to New York Plates: The Becker Forum on Institutional Purchasing Across NYS, January 2015, Syracuse, NY
+cornell university, cornell cooperative extension, new york farms to new york plates: the becker forum on institutional purchasing across nys, january 2015, syracuse, ny
 <br>
-American Farmland Trust, New York State Office, Hudson Valley Farm to Institution Summit, October 2014, New Paltz, NY
+american farmland trust, new york state office, hudson valley farm to institution summit, october 2014, new paltz, ny
 <br>
-Empire Farm Days, August 2014, Seneca Falls, NY
+empire farm days, august 2014, seneca falls, ny
 <br>
-White House, Summit on Working Families, June 2014, Washington, DC
+white wouse, summit on working families, june 2014, washington, dc
 <br>
-New York State Office of General Services, Purchasing Forum and Trade Show, May 2014, Albany, NY
+new york state office of general services, purchasing forum and trade show, may 2014, albany, ny
 <br>
-SOMOS El Futuro, Spring Conference, March 2014, Albany, NY
+somos el futuro, spring conference, march 2014, albany, ny
 <br>
-New Leaders Council, Northeast Conversation, March 2014, Jersey City, NJ
+new leaders council, northeast conversation, march 2014, jersey city, nj
 <br>
-Asian American Government Executives Network, Leadership Workshop, July 2013, Arlington, VA
+asian american government executives network, leadership workshop, july 2013, arlington, va
 <br>
-StartingBloc, Institute for Social Innovation, February 2013, Los Angeles, CA
+startingbloc, institute for social innovation, february 2013, los angeles, ca
 <br>
-International Sociological Association RC28 Conference, Labor Market and Educational Transitions in Uncertain Times, August 2012, Charlottesville, VA
+international sociological association rc28 conference, labor market and educational transitions in uncertain times, august 2012, charlottesville, va
 <br>
-Conference on Asian Pacific American Leadership, Washington Leadership Program, Summer 2012, Washington, DC
+conference on asian pacific american leadership, washington leadership program, summer 2012, washington, dc
 <br>
-Clinton Global Initiative, Clinton Global Initiative University, March 2012, Washington, DC
+clinton global initiative, clinton global initiative university, march 2012, washington, dc
 <br>
-National Academy of Social Insurance, Social Insurance in a Market Economy: Obstacles and Opportunities, January 2012, Washington, DC
+national academy of social insurance, social insurance in a market economy: obstacles and opportunities, january 2012, washington, dc
 
 <br>awards
 
-Rice University Jones School Dean’s Scholarship Award, 2020
+rice university jones school dean’s scholarship award | 2020
 <br>
-Islamic Scholarship Fund Ilhan Omar Courage and Leadership Scholarship, 2018
+islamic scholarship fund ilhan omar courage and leadership scholarship | 2018
 <br>
-Islamic Scholarship Fund Deah Yusor Razan Scholarship, 2017
+islamic scholarship fund deah yusor razan scholarship | 2017
 <br>
-New York City Mayor’s Graduate Scholarship, 2017
+new york city mayor’s graduate scholarship | 2017
 <br>
-Kresge Foundation Population Health Scholarship, 2015
+kresge foundation population health scholarship | 2015
 <br>
-New York State Canal Ambassador, 2014
+new york state canal ambassador | 2014
 <br>
-Asian American Government Executives Network Scholarship, 2013
+asian american government executives network scholarship | 2013
 <br>
-University of Virginia Batten Professional Development Grant, 2011
+university of virginia batten professional development grant | 2011
 <br>
-University of Virginia Batten Merit-Based Fellowship, 2011
+university of virginia batten merit-based fellowship | 2011
 <br>
-Segal AmeriCorps Education Award, 2010
+segal americorps education award | 2010
 <br>
-United States Department of State International Visitor Leadership Program Host, 2008
+united states department of state international visitor leadership program host | 2008
 <br>
-Robert A. Welch Foundation Scholarship, 2003
+robert a. welch foundation scholarship | 2003
 <br>
-Texas A&M University Agriculture and Life Sciences Dean’s Honor Role, 2001
+texas a&m university agriculture and life sciences dean’s honor role | 2001
 <br>
-Texas A&M University Agriculture and Life Sciences Distinguished Student, 2000
+texas a&m university agriculture and life sciences distinguished student | 2000
