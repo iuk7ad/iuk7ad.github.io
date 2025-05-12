@@ -157,7 +157,7 @@ california institute of technology, division of chemistry and chemical engineeri
 national science foundation partnership for research and education in materials fellowship
 
 <br>research assistantships
-<br>
+
 new york university, urban modeling group | 2019
 <br>
 new york university, govlab | 2018
@@ -169,7 +169,7 @@ texas a&m university, united states department of agriculture, agricultural rese
 texas a&m university, college of agriculture and life sciences, department of biochemistry and biophysics | 2001-2004
 
 <br>americorps projects
-<br>
+
 delaware division of libraries, dover, de | 2024-2025
 <br>
 bakerripley, houston, tx | 2020-2021
@@ -223,13 +223,13 @@ technical evaluation panel member
 
 <br>publications and reports
 
-bateman, a., grove, l., Swartz, H., and Yang, Z., and Khan, I. “Linking Long Island agriculture to New York City public schools,” University of Virginia Frank Batten School of Leadership and Public Policy, 2015.
+bateman, a., grove, l., swartz, h., and yang, z., and khan, i. “linking long island agriculture to new york city public schools,” university of virginia frank batten school of leadership and public policy, 2015.
 
-Dudley, R., Goodman, D., Hunt, J., and Jung, J., and Khan, I. “Growing local food systems: Policies to expand market access for New York’s small farmers,” University of Virginia Frank Batten School of Leadership and Public Policy, 2014.
+dudley, r., goodman, d., hunt, j., and jung, j., and khan, i. “growing local food systems: policies to expand market access for new york’s small farmers,” vniversity of virginia frank batten school of leadership and public policy, 2014.
 
-Connors, K., Khan, I., Orphanides, E., and West, M. “Income-generating programs: Best practices and recommendations for Lebanon,” University of Virginia Frank Batten School of Leadership and Public Policy, towards partial fulfilment of Master of Public Policy coursework and degree requirements, 2012.
+connors, k., khan, i., orphanides, e., and west, m. “income-generating programs: best practices and recommendations for lebanon,” university of virginia frank batten school of leadership and public policy, towards partial fulfilment of master of public policy coursework and degree requirements, 2012.
 
-Mathias, E.V., Liu, X., Franco, O., Khan, I., Ba, Y., and Kornfield, J.A. “A model of drug-loaded fluorocarbon-based micelles studied by electron-spin induced 19F relaxation NMR and molecular dynamics modeling,” Langmuir, 24, 692-700, 2008.
+mathias, e.v., liu, x., franco, o., khan, i., ba, y., and kornfield, j.a. “a model of drug-loaded fluorocarbon-based micelles studied by electron-spin induced 19f relaxation nmr and molecular dynamics modeling,” langmuir, 24, 692-700, 2008.
 
 <br>conference invitations and talks
 
