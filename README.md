@@ -1,14 +1,12 @@
 curriculum vitae
 
-
-email: iuk7ad at pm.me | bluesky: @iuk7ad.bsky.social | github: iuk7ad | linkedin: in/iuk7ad | orcid: 0000-0002-1201-8107
+<br>email: iuk7ad at pm.me | bluesky: @iuk7ad.bsky.social | github: iuk7ad | linkedin: in/iuk7ad | orcid: 0000-0002-1201-8107
 
 hometown: houston, texas, united states<br>
 current location: philadelphia, pennsylvania, united states<br>
 fluency: arabic, english, french, urdu
 
-
-academic training
+<br>academic training
 
 rice university, jones graduate school of business | 2020-2023<br>
 master of business administration (mba)<br>
@@ -30,8 +28,7 @@ texas a&m university, college of agriculture and life sciences, department of bi
 bachelor of science (bs) - biochemistry<br>
 thesis: protein peptide purification of human metal-responsive transcription factor 1
 
-
-teaching appointments
+<br>teaching appointments
 
 community college of philadelphia | 2024-present<br>
 introduction to information technology (cis 103)<br>
@@ -74,8 +71,7 @@ chemistry
 california state university, los angeles | 2004-2006<br>
 chemistry
 
-
-industry appointments
+<br>industry appointments
 
 laguardia apex | 2024<br>
 procurement specialist
@@ -115,8 +111,7 @@ materials scientist
 curbside, inc. | 2007<br>
 chemist and hazardous materials specialist (certification: osha hazwoper (40-hr))
 
-
-government appointments
+<br>government appointments
 
 new york city mayor's office, office of operations, office for economic opportunity | 2016-2017<br>
 director of special projects<br>
@@ -132,8 +127,7 @@ new york state governor's office, department of agriculture and markets, divisio
 empire state fellow<br>
 assignments: anti-hunger task force, community, opportunity, reinvestment neighborhoods initiative, lean spending and government efficiency commission, long island, mid-hudson, and new york city regional economic development councils, office of general services, and rochester anti-poverty task force
 
-
-fellowships
+<br>fellowships
 
 united state army, devcom army research laboratory | 2022<br>
 foundry program via fedtech and national security innovation network
@@ -162,8 +156,7 @@ education pioneers summer graduate school fellowship
 california institute of technology, division of chemistry and chemical engineering | 2004-2007<br>
 national science foundation partnership for research and education in materials fellowship
 
-
-research assistantships
+<br>research assistantships
 
 new york university, urban modeling group | 2019
 
@@ -175,8 +168,7 @@ texas a&m university, united states department of agriculture, agricultural rese
 
 texas a&m university, college of agriculture and life sciences, department of biochemistry and biophysics | 2001-2004
 
-
-americorps projects
+<br>americorps projects
 
 delaware division of libraries, dover, de | 2024-2025
 
@@ -187,7 +179,6 @@ new york city mayor’s office of criminal justice, new york, ny | 2018
 new york city department of education, new york, ny | 2015
 
 citysquare, dallas, tx | 2010
-
 
 <br>board appointments
 
@@ -230,8 +221,7 @@ farm to institution new york state leadership team member
 new york state energy research and development authority | 2014<br>
 technical evaluation panel member
 
-
-publications and reports
+<br>publications and reports
 
 bateman, a., grove, l., Swartz, H., and Yang, Z., and Khan, I. “Linking Long Island agriculture to New York City public schools,” University of Virginia Frank Batten School of Leadership and Public Policy, 2015.
 
@@ -241,6 +231,5 @@ Connors, K., Khan, I., Orphanides, E., and West, M. “Income-generating program
 
 Mathias, E.V., Liu, X., Franco, O., Khan, I., Ba, Y., and Kornfield, J.A. “A model of drug-loaded fluorocarbon-based micelles studied by electron-spin induced 19F relaxation NMR and molecular dynamics modeling,” Langmuir, 24, 692-700, 2008.
 
-
-conference invitations and talks
+<br>conference invitations and talks
 
