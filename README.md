@@ -1,11 +1,11 @@
 curriculum vitae
-
-<br>email: iuk7ad at pm.me | bluesky: @iuk7ad.bsky.social | github: iuk7ad | linkedin: in/iuk7ad | orcid: 0000-0002-1201-8107
+<br>
+<br>email: iuk7ad at pm.me | bluesky: @iuk7ad.bsky.social | github: iuk7ad | linkedin: in/iuk7ad | orcid: 0000-0002-1201-8107<br>
 
 hometown: houston, texas, united states<br>
 current location: philadelphia, pennsylvania, united states<br>
 fluency: arabic, english, french, urdu
-
+<br>
 <br>academic training
 
 rice university, jones graduate school of business | 2020-2023<br>
@@ -158,27 +158,27 @@ national science foundation partnership for research and education in materials 
 
 <br>research assistantships
 
-new york university, urban modeling group | 2019
+new york university, urban modeling group | 2019<br>
 
-new york university, govlab | 2018
+new york university, govlab | 2018<br>
 
-southern methodist university, john goodwin tower center for political studies student forum | 2010-2011
+southern methodist university, john goodwin tower center for political studies student forum | 2010-2011<br>
 
-texas a&m university, united states department of agriculture, agricultural research service | 2003
+texas a&m university, united states department of agriculture, agricultural research service | 2003<br>
 
-texas a&m university, college of agriculture and life sciences, department of biochemistry and biophysics | 2001-2004
+texas a&m university, college of agriculture and life sciences, department of biochemistry and biophysics | 2001-2004<br>
 
 <br>americorps projects
 
-delaware division of libraries, dover, de | 2024-2025
+delaware division of libraries, dover, de | 2024-2025<br>
 
-bakerripley, houston, tx | 2020-2021
+bakerripley, houston, tx | 2020-2021<br>
 
-new york city mayor’s office of criminal justice, new york, ny | 2018
+new york city mayor’s office of criminal justice, new york, ny | 2018<br>
 
-new york city department of education, new york, ny | 2015
+new york city department of education, new york, ny | 2015<br>
 
-citysquare, dallas, tx | 2010
+citysquare, dallas, tx | 2010<br>
 
 <br>board appointments
 
