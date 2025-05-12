@@ -129,30 +129,55 @@ assignments: anti-hunger task force, community, opportunity, reinvestment neighb
 
 fellowships
 
-united state army, devcom army research laboratory | 2022
+united state army, devcom army research laboratory | 2022<br>
 foundry program via fedtech and national security innovation network
 
-rice university, fondren library | 2021-2022
+rice university, fondren library | 2021-2022<br>
 fondren fellowship (certification: software carpentry instructor)
 
-united state department of commerce, census bureau | 2020
+united state department of commerce, census bureau | 2020<br>
 civic digital fellowship via coding it forward
 
-university of southern california, dornsife college of letters, arts and sciences, center for religion and civic culture | 2018
+university of southern california, dornsife college of letters, arts and sciences, center for religion and civic culture | 2018<br>
 american muslim civic leadership institute fellowship
 
-state university of new york, rockefeller institute of government | 2013-2014
+state university of new york, rockefeller institute of government | 2013-2014<br>
 empire state fellowship
 
-new york city department of citywide administrative services, office of citywide procurement | 2013
+new york city department of citywide administrative services, office of citywide procurement | 2013<br>
 green procurement fellowship
 
-united states department of energy, office of economic impact and diversity | 2012
+united states department of energy, office of economic impact and diversity | 2012<br>
 minority educational institution student partnership program fellowship
 
-houston independent school district, school improvement office | 2011
+houston independent school district, school improvement office | 2011<br>
 education pioneers summer graduate school fellowship
 
-california institute of technology, division of chemistry and chemical engineering | 2004-2007
+california institute of technology, division of chemistry and chemical engineering | 2004-2007<br>
 national science foundation partnership for research and education in materials fellowship
+
+research assistantships
+
+new york university, urban modeling group | 2019
+
+new york university, govlab | 2018
+
+southern methodist university, john goodwin tower center for political studies student forum | 2010-2011
+
+texas a&m university, united states department of agriculture, agricultural research service | 2003
+
+texas a&m university, college of agriculture and life sciences, department of biochemistry and biophysics | 2001-2004
+
+americorps projects
+
+delaware division of libraries, dover, de | 2024-2025
+
+bakerripley, houston, tx | 2020-2021
+
+new york city mayor’s office of criminal justice, new york, ny | 2018
+
+new york city department of education, new york, ny | 2015
+
+citysquare, dallas, tx | 2010
+
 
