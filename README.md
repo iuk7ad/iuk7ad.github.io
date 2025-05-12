@@ -1,10 +1,12 @@
 curriculum vitae
 
+
 email: iuk7ad at pm.me | bluesky: @iuk7ad.bsky.social | github: iuk7ad | linkedin: in/iuk7ad | orcid: 0000-0002-1201-8107
 
 hometown: houston, texas, united states<br>
 current location: philadelphia, pennsylvania, united states<br>
 fluency: arabic, english, french, urdu
+
 
 academic training
 
@@ -27,6 +29,7 @@ thesis: evaluation and implications of drop-out prevention program among minorit
 texas a&m university, college of agriculture and life sciences, department of biochemistry and biophysics | 2000-2003<br>
 bachelor of science (bs) - biochemistry<br>
 thesis: protein peptide purification of human metal-responsive transcription factor 1
+
 
 teaching appointments
 
@@ -71,6 +74,7 @@ chemistry
 california state university, los angeles | 2004-2006<br>
 chemistry
 
+
 industry appointments
 
 laguardia apex | 2024<br>
@@ -111,6 +115,7 @@ materials scientist
 curbside, inc. | 2007<br>
 chemist and hazardous materials specialist (certification: osha hazwoper (40-hr))
 
+
 government appointments
 
 new york city mayor's office, office of operations, office for economic opportunity | 2016-2017<br>
@@ -126,6 +131,7 @@ citizens police academy
 new york state governor's office, department of agriculture and markets, division of agricultural development | 2013-2015<br>
 empire state fellow<br>
 assignments: anti-hunger task force, community, opportunity, reinvestment neighborhoods initiative, lean spending and government efficiency commission, long island, mid-hudson, and new york city regional economic development councils, office of general services, and rochester anti-poverty task force
+
 
 fellowships
 
@@ -156,6 +162,7 @@ education pioneers summer graduate school fellowship
 california institute of technology, division of chemistry and chemical engineering | 2004-2007<br>
 national science foundation partnership for research and education in materials fellowship
 
+
 research assistantships
 
 new york university, urban modeling group | 2019
@@ -167,6 +174,7 @@ southern methodist university, john goodwin tower center for political studies s
 texas a&m university, united states department of agriculture, agricultural research service | 2003
 
 texas a&m university, college of agriculture and life sciences, department of biochemistry and biophysics | 2001-2004
+
 
 americorps projects
 
@@ -180,4 +188,59 @@ new york city department of education, new york, ny | 2015
 
 citysquare, dallas, tx | 2010
 
+
+board appointments
+
+university of pennsylvania, school of arts and sciences | 2025-present<br>
+south asia center affiliated faculty member
+
+laguardia community college | 2025-present<br>
+generative ai working group member
+
+laguardia community college | 2024-present<br>
+generative ai advisory board member
+
+harvard business review | 2024-present<br>
+advisory council member
+
+american bar association | 2024-present<br>
+model procurement code revision drafting committee member
+
+techuk | 2023-2024<br>
+techskills data science working group member
+
+cyber readiness institute | 2023-present<br>
+small business advisory council member
+
+american chemical society, new york local section | 2019-2020<br>
+computers in chemistry topical group co-chair
+
+new york city human resources administration | 2015<br>
+snap task force member
+
+bedford stuyvesant restoration corporation | 2015<br>
+central brooklyn food hub task force member
+
+cornell small farms program | 2015<br>
+northeast sustainable agriculture research and education advisory board member
+
+american farmland trust | 2014-2015<br>
+farm to institution new york state leadership team member
+
+new york state energy research and development authority | 2014<br>
+technical evaluation panel member
+
+
+publications and reports
+
+bateman, a., grove, l., Swartz, H., and Yang, Z., and Khan, I. “Linking Long Island agriculture to New York City public schools,” University of Virginia Frank Batten School of Leadership and Public Policy, 2015.
+
+Dudley, R., Goodman, D., Hunt, J., and Jung, J., and Khan, I. “Growing local food systems: Policies to expand market access for New York’s small farmers,” University of Virginia Frank Batten School of Leadership and Public Policy, 2014.
+
+Connors, K., Khan, I., Orphanides, E., and West, M. “Income-generating programs: Best practices and recommendations for Lebanon,” University of Virginia Frank Batten School of Leadership and Public Policy, towards partial fulfilment of Master of Public Policy coursework and degree requirements, 2012.
+
+Mathias, E.V., Liu, X., Franco, O., Khan, I., Ba, Y., and Kornfield, J.A. “A model of drug-loaded fluorocarbon-based micelles studied by electron-spin induced 19F relaxation NMR and molecular dynamics modeling,” Langmuir, 24, 692-700, 2008.
+
+
+conference invitations and talks
 
