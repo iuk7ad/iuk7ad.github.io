@@ -267,6 +267,8 @@ cornell university, cornell cooperative extension, new york farms to new york pl
 <br>
 american farmland trust, new york state office, hudson valley farm to institution summit, october 2014, new paltz, ny
 <br>
+heritage radio network, the future of food leadership: feeding nys, september 2014, brooklyn, ny
+<br>
 empire farm days, august 2014, seneca falls, ny
 <br>
 white wouse, summit on working families, june 2014, washington, dc
