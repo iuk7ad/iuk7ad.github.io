@@ -321,6 +321,6 @@ texas a&m university agriculture and life sciences dean’s honor role | 2001
 <br>
 texas a&m university agriculture and life sciences distinguished student | 2000
 
-<br>(form iuk7ad ventures)
+<br>(form input scientist)
 <br>
-(function scientist)
+(function output iuk7ad ventures)
