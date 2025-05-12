@@ -233,3 +233,88 @@ mathias, e.v., liu, x., franco, o., khan, i., ba, y., and kornfield, j.a. “a m
 
 <br>conference invitations and talks
 
+University of Massachusetts Dartmouth School for Marine Science and Technology, Data Carpentry, November 2024, Dartmouth, MA
+<br>
+University of Hawaii, Data Carpentry, October 2024, Honolulu, HI
+<br>
+University of Pennsylvania, Data Carpentry, June 2024, Philadelphia, PA
+<br>
+Pennsylvania State University, Software Carpentry, April 2024, State College, PA
+<br>
+Michigan Technological University, Data Carpentry, February 2024, Houghton, MI
+<br>
+University of Sussex, Data Carpentry, July 2023, Brighton, England
+<br>
+University of Pennsylvania, Penn Graduate Consulting Club, November 2022, Online
+<br>
+University of Pennsylvania - Van Pelt Library, Data Carpentry, October 2022, Philadelphia, PA
+<br>
+The i4 Group, Data-Driven Service Development, June 2022, Online
+<br>
+The i4 Group, Using Open Data for Public Benefit, March 2022, Online
+<br>
+The i4 Group, Data Driven Product Development, August 2021, Online
+<br>
+General Assembly, Data Week | Let’s Break it Down: Data Science vs. Data Analytics, May 2021, Online
+<br>
+Long Island Food Conference, April 2015, Hempstead, NY
+<br>
+Farm to Institution Summit, April 2015, Amherst, MA
+<br>
+AcademyHealth, National Health Policy Conference, February 2015, Washington, DC
+<br>
+Cornell University, Cornell Cooperative Extension, New York Farms to New York Plates: The Becker Forum on Institutional Purchasing Across NYS, January 2015, Syracuse, NY
+<br>
+American Farmland Trust, New York State Office, Hudson Valley Farm to Institution Summit, October 2014, New Paltz, NY
+<br>
+Empire Farm Days, August 2014, Seneca Falls, NY
+<br>
+White House, Summit on Working Families, June 2014, Washington, DC
+<br>
+New York State Office of General Services, Purchasing Forum and Trade Show, May 2014, Albany, NY
+<br>
+SOMOS El Futuro, Spring Conference, March 2014, Albany, NY
+<br>
+New Leaders Council, Northeast Conversation, March 2014, Jersey City, NJ
+<br>
+Asian American Government Executives Network, Leadership Workshop, July 2013, Arlington, VA
+<br>
+StartingBloc, Institute for Social Innovation, February 2013, Los Angeles, CA
+<br>
+International Sociological Association RC28 Conference, Labor Market and Educational Transitions in Uncertain Times, August 2012, Charlottesville, VA
+<br>
+Conference on Asian Pacific American Leadership, Washington Leadership Program, Summer 2012, Washington, DC
+<br>
+Clinton Global Initiative, Clinton Global Initiative University, March 2012, Washington, DC
+<br>
+National Academy of Social Insurance, Social Insurance in a Market Economy: Obstacles and Opportunities, January 2012, Washington, DC
+
+<br>awards
+
+Rice University Jones School Dean’s Scholarship Award, 2020
+<br>
+Islamic Scholarship Fund Ilhan Omar Courage and Leadership Scholarship, 2018
+<br>
+Islamic Scholarship Fund Deah Yusor Razan Scholarship, 2017
+<br>
+New York City Mayor’s Graduate Scholarship, 2017
+<br>
+Kresge Foundation Population Health Scholarship, 2015
+<br>
+New York State Canal Ambassador, 2014
+<br>
+Asian American Government Executives Network Scholarship, 2013
+<br>
+University of Virginia Batten Professional Development Grant, 2011
+<br>
+University of Virginia Batten Merit-Based Fellowship, 2011
+<br>
+Segal AmeriCorps Education Award, 2010
+<br>
+United States Department of State International Visitor Leadership Program Host, 2008
+<br>
+Robert A. Welch Foundation Scholarship, 2003
+<br>
+Texas A&M University Agriculture and Life Sciences Dean’s Honor Role, 2001
+<br>
+Texas A&M University Agriculture and Life Sciences Distinguished Student, 2000
