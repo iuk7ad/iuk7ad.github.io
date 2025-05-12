@@ -1,5 +1,5 @@
 curriculum vitae
-<br>
+
 
 email: iuk7ad at pm.me | bluesky: @iuk7ad.bsky.social | github: iuk7ad | linkedin: in/iuk7ad | orcid: 0000-0002-1201-8107
 
@@ -189,7 +189,7 @@ new york city department of education, new york, ny | 2015
 citysquare, dallas, tx | 2010
 
 
-board appointments
+<br>board appointments
 
 university of pennsylvania, school of arts and sciences | 2025-present<br>
 south asia center affiliated faculty member
