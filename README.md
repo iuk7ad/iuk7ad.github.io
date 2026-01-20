@@ -1,4 +1,4 @@
-<- route optimization -><br>
+operations & strategy professional<br>
 
 email: iuk7ad at pm dot me<br>
 bluesky: @iuk7ad.bsky.social<br>
