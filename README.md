@@ -15,7 +15,7 @@ i was trained as a materials scientist. i served as a policymaker and in project
 
 in 2011, i served as an education pioneers fellow in houston, my hometown. in 2009, i founded develop u, a non-profit organization aimed at community development, urban renewal, and neighborhood revitalization in south dallas. prior to this, i taught high school chemistry in dallas area public schools and worked at 3m as a materials scientist.<br>
 
-i went to college at texas a&m university to study biochemistry as a welch foundation scholar. i then received my graduate degree in public policy from the university of virginia and mba degree from rice university as a fondren fellow. i currently live in philadelphia with my wife and three children. i like baseball.<br>
+i went to college at texas a&m university to study biochemistry as a welch foundation scholar. i then received my mba degree from rice university as a fondren fellow. i currently live in philadelphia with my wife and three children. i like baseball.<br>
 
 selected media:<br>
 
