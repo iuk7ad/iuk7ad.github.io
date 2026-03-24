@@ -1,4 +1,4 @@
-materials scientist | philadelphia, pennsylvania, united states<br>
+philadelphia, pennsylvania, united states<br>
 
 email: iuk7ad at pm dot me<br>
 bluesky: @iuk7ad.bsky.social<br>
