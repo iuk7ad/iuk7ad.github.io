@@ -4,7 +4,7 @@ north philadelphia<br>
 email: imran dot khan at hunter dot cuny dot edu<br>
 calendly: iuk7ad<br>
 github: iuk7ad<br>
-mastodon: @iuk7ad.bsky.social<br>
+mastodon: @iuk7adventures@mastodon.social<br>
 orcid: 0000-0002-1201-8107<br>
 
 about:<br>
