@@ -1,26 +1,20 @@
-materials scientist<br>
-pennsylvania, united states<br>
+data scientist<br>
+north philadelphia<br>
 
-email: iuk7ad at pm dot me<br>
-bluesky: @iuk7ad.bsky.social<br>
+email: imran dot khan at hunter dot cuny dot edu<br>
 calendly: iuk7ad<br>
 github: iuk7ad<br>
-linkedin: in/iuk7ad (industry profile)<br>
-orcid: 0000-0002-1201-8107 (academia profile)<br>
+mastodon: @iuk7ad.bsky.social<br>
+orcid: 0000-0002-1201-8107<br>
 
 about:<br>
 
-i am currently working as a government partnerships broker at civicreach. i have expertise in areas of data science, food systems, logistics, and materials science. i also serve as an affiliated faculty member at the penn south asia center, fostering and promoting regional and usda open data proliferation.<br>
+my current workload involves teaching and training via regional and usda open data using advanced cyberinfrastructure, data science programming, ai/ml, and discipline-specific workflows. i am trained as a data scientist and hold graduate degrees in education, public policy, applied urban science and informatics, and business administration.<br>
 
-i was trained as a materials scientist. i served as a policymaker and in project management roles in state government. i worked in the obama administration within the energy department, where i managed programs aimed at increasing contracting and procurement opportunities for minority- and women-owned businesses. i later served as an empire state fellow within the new york state governor's office, where i served as chief of staff for the state's first ever anti-hunger task force. i also managed new york state's multi-agency farm-to-institution food and agriculture marketing and procurement program. more recently, i worked as an engagement manager at ey in the london office, working with european banks and financial institutions in meeting esg goals and objectives.<br>
+i live in north philadelphia with my wife and three children. i like baseball.<br>
 
-in 2011, i served as an education pioneers fellow in houston, my hometown. in 2009, i founded develop u, a non-profit organization aimed at community development, urban renewal, and neighborhood revitalization in south dallas. prior to this, i taught high school chemistry in dallas area public schools and worked at 3m as a materials scientist.<br>
+selected profiles:<br>
 
-i went to college at texas a&m university to study biochemistry as a welch foundation scholar. i went to southern methodist university and obtained a graduate degree in education with honors. i then went to graduate school at the university of virginia to study public policy as a green procurement fellow and later obtained an mba from rice university as a fondren fellow. i live in pennsylvania with my wife and three children. i like baseball.<br>
-
-selected media:<br>
-
-https://americorpsalums.wordpress.com/2011/01/18/americorps-alums-chapters-and-alumni-step-up-on-mlk-jr-day/<br>
-https://heritageradionetwork.org/episode/feeding-nys-imran-khan/<br>
-https://www.hortidaily.com/article/6009854/us-ny-very-diverse-local-food-marketing-panels-at-2014-empire-farm-days/<br>
-https://www.longisland.com/news/09-19-13/governor-cuomo-announces-2013-2015-class-of-empire-state-fellows.html
+https://generalassemb.ly/instructors/imran-khan/27091<br>
+https://scholar.google.com/citations?user=p7R27KIAAAAJ&hl=en<br>
+https://www.researchgate.net/profile/Imran-Khan-58
