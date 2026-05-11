@@ -15,6 +15,6 @@ i live in north philadelphia with my wife and three children. i like baseball.<b
 
 selected profiles:<br>
 
-https://generalassemb.ly/instructors/imran-khan/27091<br>
-https://scholar.google.com/citations?user=p7R27KIAAAAJ&hl=en<br>
-https://www.researchgate.net/profile/Imran-Khan-58
+generalassemb.ly/instructors/imran-khan/27091<br>
+scholar.google.com/citations?user=p7R27KIAAAAJ&hl=en<br>
+researchgate.net/profile/Imran-Khan-58
