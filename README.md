@@ -5,7 +5,7 @@ philadelphia, pennsylvania, united states<br>
 welcome to my landing page.<br>
 
 
-faculty website: cuny.is/iuk7adventures<br>
+penn south asia center, affiliated faculty<br>
 
 
 social<br>
